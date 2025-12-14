@@ -12,9 +12,7 @@ Time in years
 
 Calculate interest using the formula:
 
-Interest=
-100
-P×R×T
+Interest=(P×R×T)/100
 	​
 
 
